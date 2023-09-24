@@ -30,3 +30,8 @@ This Project includes the study of backend of a library system, in which we need
 ## CRUD for Books
 
 -   Creating CRUD Operations for books table of library database.
+
+## Creating API for above operations
+
+-   Using HTTP methods like: GET, POST, DELETE, PUT, etc.
+-   Test API methods via POSTMEN.
